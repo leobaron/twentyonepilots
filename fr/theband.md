@@ -28,8 +28,8 @@ Voici les différents logos à travers les différentes époques de Twenty Øne 
 
    
    
-## [Le monde que nous explorons](fr/Dema.md)  
-## [Comment ça a commencé, comment ça se passe](fr/moreabout.md)    
+## [Le monde que nous explorons](Dema.md)  
+## [Comment ça a commencé, comment ça se passe](moreabout.md)    
 
  
 <html>
