@@ -1,4 +1,4 @@
-![the boys](Twentyonepilots/tyjo.jpg)  
+![the boys](../Twentyonepilots/tyjo.jpg)  
 
 This page will be giving information about the band Twenty Øne Pilots and the lore they created to tell their story.
 
