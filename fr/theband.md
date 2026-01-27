@@ -1,3 +1,4 @@
+[Changer de langue](../en/theband.md)
 # Le groupe : 
 Twenty Øne Pilots est un groupe composé de Tyler Joseph, chanteur, compositeur et pianiste, et de Josh Dun, batteur. Le nom du groupe est tiré de la pièce _All My Sons_ d'Arthur Miller. Les deux membres sont originaires de la ville de Colombus, OH.  
 Leurs fans sont appelés Clikkies et sont membres de la Clique. 
