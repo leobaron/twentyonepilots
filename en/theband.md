@@ -18,19 +18,19 @@ Clancy   2024   |  13 | 3
 # Visuals
 Here are the different logos though the Twenty Øne Pilots eras:  
 
-<p style="float:left"><img src="Twentyonepilots/blurrylogo.jpg" /></p>
+<p style="float:left"><img src="../Twentyonepilots/blurrylogo.jpg" /></p>
 <p><h2>&nbsp; &nbsp; Blurryface</h2></p>
 <div style="clear:both"></div>
-<p style="float:left"><img src="Twentyonepilots/vessellogo.jpg" /></p>
+<p style="float:left"><img src="../Twentyonepilots/vessellogo.jpg" /></p>
 <p><h2>&nbsp; &nbsp; Vessel</h2></p>
 <div style="clear:both"></div>
-<p style="float:left"><img src="Twentyonepilots/trenchlogo.jpg" /></p>
+<p style="float:left"><img src="../Twentyonepilots/trenchlogo.jpg" /></p>
 <p><h2>&nbsp; &nbsp; Trench</h2></p>
 <div style="clear:both"></div>
-<p style="float:left"><img src="Twentyonepilots/sailogo.jpg" /></p>
+<p style="float:left"><img src="../Twentyonepilots/sailogo.jpg" /></p>
 <p><h2> &nbsp; &nbsp; Scaled and Icy</h2></p>
 <div style="clear:both"></div>
-<p style="float:left"><img src="Twentyonepilots/clancylogo.jpg" /></p>
+<p style="float:left"><img src="../Twentyonepilots/clancylogo.jpg" /></p>
 <h2><span style="color:white"> &nbsp; &nbsp; Clancy </span></h2>
 <div style="clear:both"></div>  
 
@@ -49,7 +49,7 @@ Here are the different logos though the Twenty Øne Pilots eras:
             margin: 0;
             padding: 0;
             height: 125; 
-            background-image: url('Twentyonepilots/background.jpg'); 
+            background-image: url('../Twentyonepilots/background.jpg'); 
             background-size: cover; 
             background-position: center; 
             background-repeat: no-repeat;
