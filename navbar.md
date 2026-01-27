@@ -1,1 +1,1 @@
-[Home](https://www.joker-project.com/2026/)
+[Change language](../fr/index.md)
