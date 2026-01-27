@@ -52,5 +52,5 @@ En dehors de l'histoire principale qui se déroule à Dema, nous disposons d'inf
    
    
  
-## [A propos du groupe](/theband.md)  
-## [Comment ça a commencé, comment ça se passe](/moreabout.md)
+## [A propos du groupe](theband.md)  
+## [Comment ça a commencé, comment ça se passe](moreabout.md)
