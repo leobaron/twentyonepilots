@@ -41,7 +41,7 @@ The only religion in Dema is Vialism. It is defined by Clancy as a "hijacked rel
 When someone dies in Dema, an event called the Annual Assembly of the Glorified happens, where bishops build a neon gravestone for the departed and make everyone watch as the dead is "honored".
 &nbsp;
 ### Vialism or weilism??
-<p style="float:right"><img src="Twentyonepilots/bourbaki.jpg" /></p>
+<p style="float:right"><img src="../Twentyonepilots/bourbaki.jpg" /></p>
 <p>
  <br> Theories about the lore have been attributing vialism to the Bourbaki group, a group of French mathematicians using the name of Nicholas Bourbaki, a fake mathematician (the inspiration for Blurryface's name). The founder of the group was Andre Weil, brother of Simone Weil. <br> 
  <br> 
@@ -56,14 +56,14 @@ Tyler has confirmed in april 2024 that the idea of vialism comes from simone Wei
 
 ## Additional information
 
-![trench](Twentyonepilots/Trenchmap.jpg)  
+![trench](../Twentyonepilots/Trenchmap.jpg)  
 Outside of the main story set in Dema, we have additional information about the area. The story is set on the Continent of Trench, a wild green continent. Throughout the albums, we focus more on a few locations: 
 - Dema
 - Voldsoy, an island East of Dema inhabited by Neds. Ned is the representation of Tyler's Creativity and his Hope. His antlers are the only thing that makes seizing possible.
 - the Pladin strait, a body of water separating Dema from Voldsoy. As much as it provides protection for Clancy since the bishops do not cross the strait, it also separates him from the Banditos and makes it harder to fight Dema.
 
 
-<img src="Twentyonepilots/Ned.jpg" alt="Twentyonepilots/Ned.jpg" width="200"/>  `This is a picture of a small furry creature with antlers called Ned`  
+<img src="../Twentyonepilots/Ned.jpg" alt="Twentyonepilots/Ned.jpg" width="200"/>  `This is a picture of a small furry creature with antlers called Ned`  
 &nbsp;  
 &nbsp;  
 &nbsp;  
