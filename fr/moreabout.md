@@ -15,5 +15,5 @@ Pendant la tournée de Clancy, des lettres non pas de Clancy mais d'autres citoy
    
    
    
-## [Le monde que nous explorons](/Dema.md)  
-## [A propos du groupe](/theband.md)
+## [Le monde que nous explorons](Dema.md)  
+## [A propos du groupe](theband.md)
