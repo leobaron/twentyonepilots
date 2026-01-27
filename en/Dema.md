@@ -1,3 +1,4 @@
+[Change language](../fr/Dema.md)
 # The World We Explore 
 
 ## The Characters
