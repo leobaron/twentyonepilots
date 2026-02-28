@@ -1,6 +1,6 @@
-<div>
-  <a href="../en/index.md" class="button">Changer de langue 🇬🇧</a>
-</div>
+<a href="../en/index.md">
+  <button>Changer de langue 🇬🇧</button>
+</a>
  
 # The World We Explore 
 
