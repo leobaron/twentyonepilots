@@ -1,4 +1,9 @@
-<button class="button"><a href="../fr/index">changer de langue 🇫🇷</a></button>
+<div>
+<a href="../fr/index">
+  <button>Changer de langue 🇫🇷</button>
+</a>
+</div>
+
 ![the boys](../Twentyonepilots/tyjo.jpg)  
 
 This page will be giving information about the band Twenty Øne Pilots and the lore they created to tell their story.
