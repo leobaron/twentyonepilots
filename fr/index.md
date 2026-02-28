@@ -1,5 +1,5 @@
 <div>
-  <a href="../en/index.md" class="button">Change language 🇬🇧</a>
+  <a href="../en/index" class="button">Change language 🇬🇧</a>
 </div>
 
 ![les garçons](../Twentyonepilots/tyjo.jpg)  
