@@ -1,4 +1,4 @@
-[Change language](../fr/theband.md)
+<button class="button"><a href="../fr/theband.md">changer de langue 🇫🇷</a></button>
 # The band: 
 Twenty Øne Pilots is a two piece band composed of Tyler Joseph, singer, songwriter and pianist, and Josh Dun, drummer. 
 The name of the band comes from the play _All My Sons_ by Arthur Miller.
