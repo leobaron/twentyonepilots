@@ -1,4 +1,4 @@
-[Changer de langue](../en/index.md)
+<button class="button"><a href="../en/index.md">Change language 🇬🇧</a></button>
 ![les garçons](../Twentyonepilots/tyjo.jpg)  
 
 Cette page fournira des informations sur le groupe Twenty Øne Pilots et sur l'histoire qu'ils ont créée pour raconter leur histoire.
