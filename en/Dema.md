@@ -1,7 +1,9 @@
-<a href="../en/index.md">
+<div>
+<a href="../fr/Dema">
   <button>Changer de langue 🇬🇧</button>
 </a>
- 
+</div>
+
 # The World We Explore 
 
 ## The Characters
