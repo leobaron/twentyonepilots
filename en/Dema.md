@@ -1,4 +1,4 @@
-<button class="button"><a href="../fr/Dema.md">changer de langue 🇫🇷/a>/button>
+<button type="button"><a href="../fr/Dema.md">Change language 🇬🇧</button>
 
 # The World We Explore 
 
