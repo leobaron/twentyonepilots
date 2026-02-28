@@ -1,4 +1,4 @@
-[Changer de langue](../en/dema.md)
+[Changer de langue](../en/Dema.md)
 # Le monde que nous explorons 
 
 ## Les personnages
