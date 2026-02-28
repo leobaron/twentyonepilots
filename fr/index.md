@@ -1,10 +1,5 @@
----
-layout: default
-title: Accueil
----
-
 <div>
-<button type="button"><a href="../en/index.md">Change language 🇬🇧</a></button>
+  <a href="../en/index.md" class="button">Change language 🇬🇧</a>
 </div>
 
 ![les garçons](../Twentyonepilots/tyjo.jpg)  
