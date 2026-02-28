@@ -25,7 +25,17 @@ Ils sont nommés d'après des chansons du groupe. Par exemple, le nom SACARVER v
 
 Voici un tableau des informations importantes concernant les évêques  
 
-Nom de l'évêque | Origine du nom dans une chanson | insécurité ---------:| :----- |:----- : Keons | s'étouffer avec la fumée (_Heavydirtysoul_) | Répétition Sacarver | c'est une sculptrice (_Tear in My Heart_)| Peur de l'amour Listo | une liste de personnes (_Ride_) | Abandon et réflexion excessive Lisden | tout ce que je ressens est de nier (_Polarize_)| Ne pas être assez Reisdro | la température baisse (_Doubt_) | Auto-doute Vetomo | seront-ils en vie demain ?Vetomo | seront-ils encore en vie demain ? | Conformité Andre |et répéter la danse d'hier | Rester le même/ne jamais changer Nico | il s'appelle Nico (_Morph)_| Succès Nills | battu, je vais m'éclipser (_Goner_) | Défaite
+Nom de l'évêque | Origine du nom dans une chanson | insécurité 
+---------:| :----- |:----- : 
+Keons | s'étouffer avec la fumée (_Heavydirtysoul_) | Répétition 
+Sacarver | c'est une sculptrice (_Tear in My Heart_)| Peur de l'amour 
+Listo | une liste de personnes (_Ride_) | Abandon et réflexion excessive 
+Lisden | tout ce que je ressens est de nier (_Polarize_)| Ne pas être assez 
+Reisdro | la température baisse (_Doubt_) | Auto-doute 
+Vetomo | seront-ils en vie demain ? | Conformité 
+Andre |et répéter la danse d'hier | Rester le même/ne jamais changer 
+Nico | il s'appelle Nico (_Morph)_| Succès 
+Nills | battu, je vais m'éclipser (_Goner_) | Défaite
 
 
 ## Qu'est-ce que le vialisme ?  
@@ -43,7 +53,7 @@ Tyler a confirmé en avril 2024 que l'idée du vialisme provient de la philosoph
 <div style="clear:both"></div>
  
 
-~~Je suis un citoyen, je suis un évadé, je suis une exception, je suis Clancy~~~.
+~~Je suis un citoyen, je suis un évadé, je suis une exception, je suis Clancy~~.
 
 ## Informations complémentaires
 
