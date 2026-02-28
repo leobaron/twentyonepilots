@@ -1,4 +1,9 @@
-<button class="button"><a href="../fr/moreabout.md">changer de langue 🇫🇷</a></button>
+<div>
+<a href="../fr/moreabout">
+  <button>Changer de langue 🇫🇷</button>
+</a>
+</div>
+
 ## How it started?
 The lore hunt started on the website [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html) where Tyler Joseph, singer of the band, uploaded lettrs written by someone living in Dema and trying to escape the bishops. These letters are signed _Clancy_, which is the name attributed to the writer although we know it's an Alias (this is explained in the song _Air Catcher_ by the lyrics "Nobody knows his real name but now he jut uses one he stole on a grave"). 
 Additional information will be given by the band through subliminal pictures online, music videos, background pictures during live shows...
