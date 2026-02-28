@@ -1,4 +1,4 @@
-[Changer de langue](../en/Dema.md)
+<button class="button"><a href="../en/Dema.md">Change language 🇬🇧</a></button>
 # Le monde que nous explorons 
 
 ## Les personnages
