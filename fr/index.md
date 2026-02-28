@@ -1,3 +1,8 @@
+---
+layout: default
+title:Accueil
+---
+
 <div>
 <button type="button"><a href="../fr/Dema.md">Changer de langue 🇬🇧</a></button>
 </div>
