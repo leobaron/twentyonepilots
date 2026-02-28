@@ -4,7 +4,7 @@ title:Accueil
 ---
 
 <div>
-<button type="button"><a href="../fr/Dema.md">Changer de langue 🇬🇧</a></button>
+<button type="button"><a href="../en/index.md">Change language 🇬🇧</a></button>
 </div>
 
 ![les garçons](../Twentyonepilots/tyjo.jpg)  
