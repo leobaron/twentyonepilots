@@ -1,5 +1,7 @@
 <div>
-<button type="button"><a href="../en/Dema.md">Change language 🇬🇧</button>
+<a href="../en/index.md">
+  <button>Changer de langue 🇬🇧</button>
+</a>
 </div>
  
 # Le monde que nous explorons 
