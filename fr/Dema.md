@@ -1,5 +1,4 @@
-<button class="button"><a href="../en/Dema.md">Change language 🇬🇧</a></button>
-<button type="button">Change language 🇬🇧</button>
+<button type="button"><a href="../en/Dema.md">Change language 🇬🇧</button>
 # Le monde que nous explorons 
 
 ## Les personnages
