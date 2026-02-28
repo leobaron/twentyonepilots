@@ -1,4 +1,9 @@
-<button class="button"><a href="../en/moreabout.md">Change language 🇬🇧</a></button>
+<div>
+<a href="../en/moreabout">
+  <button>Change de language 🇬🇧</button>
+</a>
+</div>
+
 ## Comment cela a-t-il commencé ?
 La chasse à la légende a commencé sur le site [DEMAORG](http://dmaorg.info/found/15398642_14/clancy.html) où Tyler Joseph, chanteur du groupe, a téléchargé des lettres écrites par quelqu'un vivant à Dema et essayant d'échapper aux évêques. Ces lettres sont signées _Clancy_, qui est le nom attribué à l'écrivain bien que nous sachions qu'il s'agit d'un alias (ce qui est expliqué dans la chanson _Air Catcher_ par les paroles "Nobody knows his real name but now he jut uses one he stole on a grave"). Des informations supplémentaires seront données par le groupe par le biais d'images subliminales en ligne, de vidéos musicales, d'images d'arrière-plan pendant les concerts...
 
