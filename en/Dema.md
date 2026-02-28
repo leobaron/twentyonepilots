@@ -1,6 +1,6 @@
 <div>
 <a href="../fr/Dema">
-  <button>Changer de langue 🇬🇧</button>
+  <button>Changer de langue 🇫🇷</button>
 </a>
 </div>
 
